@@ -25,6 +25,3 @@ pnpm-debug.log*
 # Firebase files
 .firebaserc
 .firebase
-
-# Github files
-.github
